@@ -14,8 +14,6 @@ Enhance your streaming experience with RUM-Slides, a versatile image overlay sol
 
 - **Dynamic Slide Count:** Adapts to changes in the slides folder, dynamically updating the total slide count for easy management.
 
-- **Responsive Design:** Ensure a polished appearance with responsive design, adjusting to various screen sizes and resolutions.
-
 - **Customizable Styling:** Tailor the overlay to match your branding with customizable colors, fonts, and styles.
 
 RUM-Slides is an open-source project that empowers streamers to elevate their content effortlessly. Whether you're showcasing fan art, highlights, or announcements, RUM-Slides adds a professional touch to your streaming setup. Fork the project and integrate it into your streaming toolkit to captivate your audience with visually appealing overlays.
